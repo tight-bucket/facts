@@ -1,0 +1,41 @@
+[
+ {
+  "title": "TightBucket Leads Pro",
+  "id": "prod_Owk20SW6vkzAc",
+  "plans": [
+   {
+    "price": 99.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_SsIeE74wPSFTe"
+   }
+  ]
+ },
+ {
+  "title": "TightBucket Leads",
+  "id": "prod_iwZdg6u4kPuKf",
+  "plans": [
+   {
+    "price": 49.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_hGQ9NqMIUYd62"
+   }
+  ]
+ },
+ {
+  "title": "TightBucket Free",
+  "id": "prod_0PpSKn8WgXRnF",
+  "plans": [
+   {
+    "price": 0.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_SVW0MHUS96lRf"
+   }
+  ]
+ }
+]
