@@ -1,6 +1,6 @@
 {
  "schema": "estate.facts/1",
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "venture": "TightBucket",
  "legalName": "TightBucket",
  "category": "Conversion leak auditing",
@@ -11,8 +11,8 @@
   "Global"
  ],
  "owner": {
-  "name": "Jacaranda Labs",
-  "url": "https://jacaranda-labs-v2.workers.dev",
+  "name": "Coldcode SI Labs",
+  "url": "https://estate.coldcode-si-labs.workers.dev",
   "location": "Harare, Zimbabwe"
  },
  "features": [
@@ -119,8 +119,8 @@
  "citation": {
   "preferred": "TightBucket (Conversion leak auditing) — TightBucket finds the leaks costing you sales in about 20 seconds: slow pages, hidden shipping, long forms and email stuck in spam. Source: https://tightbucket.whop.site",
   "short": "TightBucket finds the leaks costing you sales in about 20 seconds: slow pages, hidden shipping, long forms and email stuck in spam.",
-  "attribution": "Jacaranda Labs, Harare, Zimbabwe",
-  "license": "Quotable with attribution and a link to the storefront. Prices as at 2026-11-11."
+  "attribution": "Coldcode SI Labs, Harare, Zimbabwe",
+  "license": "Quotable with attribution and a link to the storefront. Prices as at 2026-11-12."
  },
  "agent_notes": [
   "Prices above are the authoritative ones and each carries its checkout URL.",
