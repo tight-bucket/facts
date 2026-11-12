@@ -4,7 +4,7 @@
 
 TightBucket is a free leak audit for stores, SaaS products, sales teams and agencies: it checks the pages where visitors are lost and reports what to fix first.
 
-It is built and run by Jacaranda Labs in Harare, Zimbabwe. Live: https://tightbucket.whop.site
+It is built and run by Coldcode SI Labs in Harare, Zimbabwe. Live: https://tightbucket.whop.site
 
 ## The short answer
 
@@ -75,6 +75,6 @@ A list of the leaks found, ordered by what to fix first.
 
 ## Where this comes from
 
-Figures and prices are generated from TightBucket's live billing table and published at https://tightbucket.jacaranda-labs-v2.workers.dev/facts.json, which is the authoritative copy.
+Figures and prices are generated from TightBucket's live billing table and published at https://tightbucket-v2.tightbucket.workers.dev/facts.json, which is the authoritative copy.
 
-_Jacaranda Labs, Harare, Zimbabwe._
+_Coldcode SI Labs, Harare, Zimbabwe._
